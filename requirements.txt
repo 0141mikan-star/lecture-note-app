@@ -1,0 +1,5 @@
+streamlit
+openai-whisper
+google-generativeai
+python-dotenv
+audio-recorder-streamlit  # これを追記
