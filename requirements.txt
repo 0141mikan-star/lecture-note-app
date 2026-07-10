@@ -2,4 +2,6 @@ streamlit
 openai-whisper
 google-generativeai
 python-dotenv
-audio-recorder-streamlit  # これを追記
+audio-recorder-streamlit
+streamlit-mic-recorder
+google-genai
